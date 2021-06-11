@@ -2,7 +2,7 @@
 using UnityEngine;
 
 public class MouseAim : MonoBehaviour
-{
+{ 
     public Transform spine;
     private float xAxis = 0f;
     private float yAxis = 0f;
